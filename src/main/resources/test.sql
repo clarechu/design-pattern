@@ -1,0 +1,1 @@
+select count(*), column_name from table_name group by column_name order by count(*) DESC;
