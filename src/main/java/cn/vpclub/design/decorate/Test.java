@@ -1,5 +1,6 @@
 package cn.vpclub.design.decorate;
-
+/**
+ * 装饰者*/
 public class Test {
 
     public static void main(String[] args) {
