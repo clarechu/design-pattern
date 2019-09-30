@@ -137,3 +137,10 @@ public class Singleton {
 ```
 
 
+建造者模式
+
+将产品与建造产品的过程进行分离
+
+```java
+
+```
