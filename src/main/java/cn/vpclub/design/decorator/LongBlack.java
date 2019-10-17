@@ -10,7 +10,7 @@ package cn.vpclub.design.decorator;
 public class LongBlack extends Coffee {
 
     public LongBlack() {
-        setPrice(3.0f);
-        setDescribe("可乐");
+        this.setPrice(3.0f);
+        this.setDescribe("可乐");
     }
 }
